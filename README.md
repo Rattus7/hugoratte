@@ -15,3 +15,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hugo-ratte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hugo-ratte/" height="30" width="40" /></a>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rattus7&show_icons=true&locale=en&layout=compact" alt="rattus7" /></p>
